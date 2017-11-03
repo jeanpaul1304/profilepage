@@ -6,6 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="container App">
+        <h1>Test </h1>
         <ProfileContainer />
         <RepositoriesContainer />
       </div>
